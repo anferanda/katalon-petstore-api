@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get-pet-dinamis</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6bbdf940-905e-40b3-ad6c-c3403f4ac531</testCaseGuid>
+</TestCaseEntity>

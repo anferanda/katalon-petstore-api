@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete-pet-dinamis</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0435d78c-7bc5-4564-8542-0a7fb559cd50</testCaseGuid>
+</TestCaseEntity>

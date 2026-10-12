@@ -1,18 +1,17 @@
-# Web Service Testing Samples
+# API Testing Automation Project
 
-See https://docs.katalon.com/katalon-studio/docs/web-service-samples.html.
+Repository ini berisi script pengujian otomatis (*automated testing*) untuk API testing menggunakan API dari Petstore. 
+Pengujian ini menggunakan Katalon Studio. 
+Project ini memiliki 4 Test Case Positive yang ada di folder Pet-Store Positive Case dan 4 Test Case Negative yang ada di folder Pet-Store Negative Case.
 
-## Companion products
+## Struktur Project
+* **Test Cases** : Berisi script pengujian skenario utama (Positive & Negative Cases).
+* **Test Suites** : Kumpulan skenario untuk dieksekusi secara otomatis.
+* **Object Repository** : Kumpulan request & endpoint API yang diuji.
+* **Reports** : Berisi laporan hasil eksekusi pengujian dari test suite.
 
-### Katalon True Platform
-
-[Katalon True Platform](https://analytics.katalon.com) brings planning, authoring, execution, and quality insights into one connected experience—combining manual and automated testing, scalable execution, AI assistance, and reporting so teams can move faster without fragmenting their workflow.
-
-* Read our [documentation](https://docs.katalon.com/katalon-analytics/docs/overview.html).
-* Ask a question on [Forum](https://forum.katalon.com/categories/katalon-analytics).
-* Request a new feature on [GitHub](CONTRIBUTING.md).
-* Vote for [Popular Feature Requests](https://github.com/katalon-analytics/katalon-analytics/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc).
-* File a bug in [GitHub Issues](https://github.com/katalon-analytics/katalon-analytics/issues).
-
-### Katalon Studio
-[Katalon Studio](https://www.katalon.com) is a free and complete automation testing solution for Web, Mobile, and API testing with modern methodologies (Data-Driven Testing, TDD/BDD, Page Object Model, etc.) as well as advanced integration (JIRA, qTest, Slack, CI, Katalon True Platform, etc.). Learn more about [Katalon Studio features](https://www.katalon.com/features/).
+## Cara Menjalankan
+1. Clone repository ini: `git clone https://github.com/anferanda/katalon-petstore-api.git`
+2. Buka Katalon Studio, pilih **Open Project**, lalu arahkan ke folder API Testing.
+3. Jalankan Test Suite 'Positive Test - Pets'.
+4. Buka folder **Reports** untuk melihat hasil pengujian.

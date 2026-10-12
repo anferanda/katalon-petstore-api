@@ -3,9 +3,13 @@
    <description></description>
    <name>web-service-tests</name>
    <tag></tag>
-   <UUID>4944de0d-f865-41c5-8f26-b7e143c3a65a</UUID>
+   <UUID>2f6f413b-3edf-45ce-997b-9bc332e8323b</UUID>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>10.4.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Annisa Feranda\Katalon Studio\API Testing\web-service-tests.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -24,5 +28,6 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
+   <timeStampInProperties>true</timeStampInProperties>
    <type>WEBSERVICE</type>
 </Project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Put-pet-negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27b1c2b2-debd-4219-b3e3-34c5e74d7cf0</testCaseGuid>
+</TestCaseEntity>
